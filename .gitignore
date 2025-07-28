@@ -1,0 +1,16 @@
+config/service-account.json
+
+# Node modules or dependencies (if ever used in future)
+node_modules/
+.env
+
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
+
+# VSCode settings (optional, if you don’t want to share workspace settings)
+.vscode/
+
+# Logs or temporary files
+*.log
+*.tmp
